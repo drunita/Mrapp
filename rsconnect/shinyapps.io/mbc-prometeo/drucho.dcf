@@ -1,0 +1,14 @@
+name: drucho
+title: drucho
+username:
+account: mbc-prometeo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5060149
+bundleId: 5227943
+url: https://mbc-prometeo.shinyapps.io/drucho/
+when: 1636389737.95546
+lastSyncTime: 1636389737.95546
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
